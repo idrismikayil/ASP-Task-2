@@ -95,7 +95,9 @@ namespace ASP_Task_2.Controllers
             HomeVM model = new HomeVM
             {
                 Sliders = _context.Sliders.ToList(),
-                Features = _context.Features.ToList()
+                Features = _context.Features.ToList(),
+                Carousels = _context.Carousels.ToList(),
+
             };
 
             return View(model);

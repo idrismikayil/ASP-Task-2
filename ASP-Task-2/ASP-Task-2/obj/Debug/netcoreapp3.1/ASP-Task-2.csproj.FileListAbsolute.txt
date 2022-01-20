@@ -145,3 +145,5 @@ C:\Users\HP\OneDrive\Masaüstü\Backend\ASP-Task-2\ASP-Task-2\ASP-Task-2\bin\Deb
 C:\Users\HP\OneDrive\Masaüstü\Backend\ASP-Task-2\ASP-Task-2\ASP-Task-2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\HP\OneDrive\Masaüstü\Backend\ASP-Task-2\ASP-Task-2\ASP-Task-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\HP\OneDrive\Masaüstü\Backend\ASP-Task-2\ASP-Task-2\ASP-Task-2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Masaüstü\Backend\ASP-Task-2\ASP-Task-2\ASP-Task-2\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Index.cshtml.g.cs
+C:\Users\HP\OneDrive\Masaüstü\Backend\ASP-Task-2\ASP-Task-2\ASP-Task-2\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Detail.cshtml.g.cs

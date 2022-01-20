@@ -29,7 +29,6 @@ namespace ASP_Task_2
             {
                 option.UseSqlServer(_config.GetConnectionString("Default"));
                 //option.UseSqlServer(@"Server=WOLREX\SQLEXPRESS01;Database=Task-2;Trusted_Connection=true"); 
-
             });
         }
 

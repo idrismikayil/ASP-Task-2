@@ -15,5 +15,9 @@ namespace ASP_Task_2.Models
 
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Feature> Features { get; set; }
+        public DbSet<Portfolio> Portfolios { get; set; }
+        public DbSet<PortfolioImage> PortfolioImages { get; set; }
+        public DbSet<Carousel> Carousels { get; set; }
+
     }
 }

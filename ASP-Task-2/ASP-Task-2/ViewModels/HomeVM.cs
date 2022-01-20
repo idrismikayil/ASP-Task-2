@@ -10,5 +10,7 @@ namespace ASP_Task_2.ViewModels
     {
         public List<Slider> Sliders { get; set; }
         public List<Feature> Features { get; set; }
+        public List<Carousel> Carousels { get; set; }
+
     }
 }

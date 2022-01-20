@@ -14420,6 +14420,16 @@
       "FilePath": "c:\\Users\\HP\\OneDrive\\Masaüstü\\Backend\\ASP-Task-2\\ASP-Task-2\\ASP-Task-2\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\OneDrive\\Masaüstü\\Backend\\ASP-Task-2\\ASP-Task-2\\ASP-Task-2\\Views\\Portfolio\\Index.cshtml",
+      "TargetPath": "Views\\Portfolio\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\OneDrive\\Masaüstü\\Backend\\ASP-Task-2\\ASP-Task-2\\ASP-Task-2\\Views\\Portfolio\\Detail.cshtml",
+      "TargetPath": "Views\\Portfolio\\Detail.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
